@@ -72,6 +72,6 @@ Material:
     - _Wave_Speed: 0.15
     m_Colors:
     - _Deep_Color: {r: 0.026877731, g: 0.36862746, b: 0.9496855, a: 0.7176471}
-    - _ShallowColor: {r: 0.57254905, g: 0.7841673, b: 0.90588236, a: 0.56078434}
+    - _ShallowColor: {r: 0.6367034, g: 0.8195569, b: 0.9245283, a: 0.56078434}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
